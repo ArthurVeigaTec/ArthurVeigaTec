@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @ArthurVeigaTec
 - 👀 I’m interested in Programming, fullstack developer, software engeneer
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on frontend engineer
-- 📫 How to reach me: https://www.linkedin.com/in/arthurveigatec/ or arthurveigatec@gmail.com
