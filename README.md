@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ArthurVeigaTec
-- 👀 I’m interested in Programming, fullstack developer, software engeneer
+- 👀 I’m interested in Programming, full-stack development, and software engineering
